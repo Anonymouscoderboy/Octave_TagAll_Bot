@@ -27,8 +27,8 @@ async def start(event):
   await event.reply("^_^ Hey, Welcome To TAG Help Bot's Menu\nI can tag 15,000 Members in Group and 300 Members In Channel.\nNeed Help /help ",
                     buttons=(
                       [
-                         Button.url('📣 UPDATES', 'https://t.me/Octave_support'), 
-                         Button.url('⭐SUPPORT', 'https://t.me/pglpnti_ki_dunia'), 
+                         Button.url('📣 UPDATES', 'https://t.me/CodeNexus_community'), 
+                         Button.url('⭐SUPPORT', 'https://t.me/Iink_ka_adda'), 
                       ], 
                       [
                         Button.url('➕ ADD ME TO YOUR GROUP', 'http://t.me/OctaveTagAllBot?startgroup=true'),   
@@ -44,8 +44,8 @@ async def help(event):
   await event.reply(helptext,
                     buttons=(
                       [
-                         Button.url('📣 UPDATES', 'https://t.me/Octave_support'), 
-                         Button.url('⭐SUPPORT', 'https://t.me/pglpnti_ki_dunia'), 
+                         Button.url('📣 UPDATES', 'https://t.me/CodeNexus_community'), 
+                         Button.url('⭐SUPPORT', 'https://t.me/Iink_ka_adda'), 
                       ], 
                       [
                         Button.url('➕ ADD ME TO YOUR GROUP', 'http://t.me/OctaveTagAllBot?startgroup=true'),   
